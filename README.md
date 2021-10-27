@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gumdo
-- 👀 I’m interested in java and iod
+- 👀 I’m interested in java and ios
 - 🌱 I’m currently learning java and ios
 - 💞️ I’m looking to collaborate on java and ios
 - 📫 How to reach me ... comment here!
